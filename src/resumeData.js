@@ -16,7 +16,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"After many years of sales experience in the real estate and travel industries, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development ",
+  "aboutme":"Life long learner eager to better myself as a developer and as a person. Have experience working in the Salesforce enviornment and my passion is to bring great Web applications to life.",
   "address":"Aventura, FL, USA",
   "website":"gkutsovsky@gmail.com",
   "education":[
