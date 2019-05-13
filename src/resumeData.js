@@ -71,7 +71,9 @@ let resumeData = {
     {
       "name":"Peer to Peer",
       "description":"Web Application, First Project at Wyncode. More easily connects artists with project opportunities nation wide. Used third party API to fetch marijuana strains to pair with different food item",
-      "url":"https://peertopeer.netlify.com/"
+      "imgurl": "images/portfolio/beautify.jpg",
+      "url":"https://peertopeer.netlify.com/",
+      
     },
     {
       "name":"brewfinder",
