@@ -3,7 +3,7 @@ let resumeData = {
   "name": "Gabriel",
   "role": "Full Stack Web Developer",
   "linkedinId":"https://www.linkedin.com/in/gkutsovsky/",
-  "roleDescription": " I enjoy creating art on various media, whether through painting, music, or developing web applications.",
+  "roleDescription": " Coder and lifelong learner",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -30,14 +30,14 @@ let resumeData = {
       "UniversityName": "Brooklyn College",
       "specialization": "Computer Science",
       "MonthofPassing": "Janurary",
-      "YearofPassing": "2017"
+      "YearofPassing": "2017",
     }
   ],
   "work":[
     {
       "CompanyName":"Anti Defamation League",
       "specialization":"Junior Software Developer (Salesforce)",
-      "Achievements": "Tasked with Salesforce objects and data analytics to implement new methodologies for key stakeholders.Translated requirements into clearly defined technical tasks. Created custom objects and reports to hide data access from profiles within the organization. mplemented custom UI with HTML/CSS and JavaScript."
+      "Achievements": "Tasked with Salesforce objects and data analytics to implement new methodologies for key stakeholders. Translated requirements into clearly defined technical tasks. Created custom objects and reports to hide data access from profiles within the organization. Implemented custom UI with HTML/CSS and JavaScript."
     },
   ],
   "skillsDescription":"Languages, Frameworks, & Libraries",
