@@ -17,7 +17,7 @@ let resumeData = {
       }
     ],
   "aboutme":"Life long learner eager to better myself as a developer and as a person. Have experience working in the Salesforce enviornment and my passion is to bring great Web applications to life.",
-  "address":"Aventura, FL, USA",
+  "address":"Miami, FL | New York City, NY",
   "website":"gkutsovsky@gmail.com",
   "education":[
     {
@@ -70,7 +70,7 @@ let resumeData = {
     },
     {
       "name":"Perfect Pairings",
-      "description":"Web Application, First Project at Wyncode. More easily connects artists with project opportunities nation wide. Used third party API to fetch marijuana strains to pair with different food item",
+      "description":"Web Application, First Project at Wyncode. Used third party API to fetch marijuana strains to pair with different food item",
       "imgurl": "images/portfolio/beautify.jpg",
       "url":"https://perfectpairings.netlify.com/",
       
