@@ -29,8 +29,8 @@ let resumeData = {
     {
       "UniversityName": "Brooklyn College",
       "specialization": "Computer Science",
-      "MonthofPassing": "Janurary",
-      "YearofPassing": "2017",
+      "MonthOfPassing": "Janurary",
+      "YearOfPassing": "2017",
     }
   ],
   "work":[
