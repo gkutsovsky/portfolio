@@ -69,10 +69,10 @@ let resumeData = {
       "url":"https://miamiridez.netlify.com/"
     },
     {
-      "name":"Peer to Peer",
+      "name":"Perfect Pairings",
       "description":"Web Application, First Project at Wyncode. More easily connects artists with project opportunities nation wide. Used third party API to fetch marijuana strains to pair with different food item",
       "imgurl": "images/portfolio/beautify.jpg",
-      "url":"https://peertopeer.netlify.com/",
+      "url":"https://perfectpairings.netlify.com/",
       
     },
     {
