@@ -76,10 +76,10 @@ let resumeData = {
       
     },
     {
-      "name":"brewfinder",
-      "description":"Web Application, simple brewery finder made for people to more easily locate breweries nation wide. Created with MapboxGL API and Open Brewery Finder DB API.",
+      "name":"Peer to Peer",
+      "description":"Full Stack Application with User Authentication. JS and React along with CSS on the front-end and Ruby on Rails on the back-end",
       "imgurl":"images/portfolio/brew2.jpg",
-      "url":"https://brewfinder.netlify.com/"
+      "url":"https://boiling-tundra-57022.herokuapp.com/users/sign_in"
     }
   ],
 }
