@@ -72,7 +72,7 @@ let resumeData = {
       "name":"Brew Finder",
       "description":"Web Application, First Project at Wyncode. Used third party API to fetch local breweries in your city",
       "imgurl": "images/portfolio/beautify.jpg",
-      "url":"https://perfectpairings.netlify.com/",
+      "url":"https://brewfinder.netlify.com/",
       
     },
     {
